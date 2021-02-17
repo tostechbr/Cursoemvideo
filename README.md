@@ -1,7 +1,7 @@
 # Curso HTML5 e CSS3
 
 <div align="center">
-  <img src="midia/cursoemvideo-logo-branca.png" alt="Logo c++" width="250" height="250"/>
+  <img src="midia/cursoemvideo-logo-branca.png" alt="Logo c++" width="" height=""/>
 </div>
 
 <!-- ************************************* Baadges ********************************************* -->
