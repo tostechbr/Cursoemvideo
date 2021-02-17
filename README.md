@@ -8,7 +8,6 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tosantos1/Cursoemvideo?color=342680">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/count/tosantos1/Cursoemvideo?color=342680">
 </p>
 
 
